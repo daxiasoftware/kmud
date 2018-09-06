@@ -1,0 +1,18 @@
+package com.daxia.mud.service;
+
+import com.daxia.mud.entity.{Model};
+import com.daxia.mud.mapper.{Model}Mapper;
+import org.springframework.stereotype.Service;
+
+/**
+ * <p>
+ *  服务实现类
+ * </p>
+ *
+ * @author daxia
+ * @since 2018-08-29
+ */
+@Service
+public class {Model}Service extends MyBaseService<{Model}Mapper, {Model}> {
+
+}
